@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLflow-Baisc-Operation/mlruns/0/f831ca14cb89435aa3186fafb19d089b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f831ca14cb89435aa3186fafb19d089b
+run_name: worried-vole-364
+run_uuid: f831ca14cb89435aa3186fafb19d089b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733310018744
+status: 1
+tags: []
+user_id: sonjo
